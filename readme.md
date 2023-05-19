@@ -20,10 +20,8 @@ If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/
 
 ```mermaid
 stateDiagram-v2
-[*] --> Still
-Still --> Moving
-Moving --> Crash
-Crash --> [*]
+Papers With Code
+GIT - Version Control
 ```
 
 ## Note
