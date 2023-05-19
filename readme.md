@@ -18,11 +18,13 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Become+Expert) in Germany, or you want to [hire an AI Expert](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Expert), please say [hi@am.ai](mailto:hi@am.ai).
 
+```mermaid
 stateDiagram-v2
 [*] --> Still
 Still --> Moving
 Moving --> Crash
 Crash --> [*]
+```
 
 ## Note
 
