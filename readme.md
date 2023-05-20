@@ -124,6 +124,48 @@ mindmap
 
 ## Data Science Roadmap
 
+```mermaid
+mindmap
+  root((Data Scientist))
+    Statistics
+      Probabilty Theory
+        Randomness, random variable and random sample
+        Probability distribution
+        Conditional probability and Beyes' theorem
+        Statistical independence
+        Independent and Identically Distributed
+        Functions
+          Cumulative distribution
+          Probability density
+          Probability mass
+    Continous distributions
+      Normal / Gaussian
+      Uniform 
+      Beta 
+      Dirichlet 
+      Exponential 
+      x2 chi squared
+    Discrete distributions
+      Uniform
+      Binomial 
+      Multinomial
+      Hypergeometric
+      Poisson
+      Geometric 
+    Summary Statistics
+      Expectation and mean
+      Variance and standard deviation
+      Covariance and correlation
+      Median, quartile
+      Interquartie range
+      Percentile / quartile
+      Mode
+    Estimation 
+    Hypothesis Testing 
+    Confidence Interval CI
+    Monte Carlo Method 
+```
+
 <p align="center">
   <a href="https://i.am.ai/roadmap#data-science-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+DataScience" target="_blank">
       <img src="./images/datascience.svg"/>
