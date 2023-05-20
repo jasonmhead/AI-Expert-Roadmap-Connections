@@ -88,6 +88,16 @@ mindmap
     Jupyter Notebooks / Lab 
 ```
 
+```mermaid
+mindmap
+  root((Data Sources))
+    Data Mining
+    Web Scraping
+    Great Public Datasets
+    Kaggle
+    Huggingface
+```
+
 ## Data Science Roadmap
 
 <p align="center">
