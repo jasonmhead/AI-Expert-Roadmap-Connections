@@ -98,6 +98,30 @@ mindmap
     Huggingface
 ```
 
+```mermaid
+mindmap
+  root((Working with Data))
+    Data Mining
+    Web Scraping
+    Great Public Datasets
+    Kaggle
+    Huggingface
+```
+
+```mermaid
+mindmap
+  root((Working with Data))
+    Principal Component Analysis PCA
+    Dimensionality & Numerosity reduction
+    Normalization
+    Data Scrubbing, Handling Missing Values
+    Unbiased Estimators
+    Binning Sparse Values
+    Feature Extraction
+    Denoising
+    Sampling
+```
+
 ## Data Science Roadmap
 
 <p align="center">
