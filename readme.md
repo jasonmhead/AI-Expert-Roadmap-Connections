@@ -43,6 +43,22 @@ E --> G[Deep Learning]
 
 ## Fundamentals
 
+graph TD;
+    Fundamentals --> Basics;
+    Basics --> Matrices_Linear_Algebra_Fundamentals;
+    Basics --> Database_Basics;
+    Basics --> Fir_Tabular_Data;
+    Fir_Tabular_Data --> Data_Frames_Series;
+    Fir_Tabular_Data --> Extract_Transform_Load_ETU;
+    Extract_Transform_Load_ETU --> Reporting_vs_81_vs_Analytics;
+    Fundamentals --> Data_Formats;
+    Data_Formats --> Regular_Expressions_RegEx;
+
+
+Relational vs. non-relational databases 
+SQL + Joins (Inner. Outer. Cross. Theta Jd 
+NoSOL 
+
 <p align="center">
   <a href="https://i.am.ai/roadmap#fundamentals?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Fundamentals" target="_blank">
       <img src="./images/fundamentals.svg"/>
