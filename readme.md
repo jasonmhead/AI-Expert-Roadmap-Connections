@@ -20,7 +20,7 @@ If you are interested collaborating, drop a note to [jmhead@jasonmhead.com](mail
 
 ## Note
 
-👉 An **interactive version with links to follow** about each bullet of the list can be found at (https://jasonmhead.com/ai-expert-roadmap-with-connections/)](https://jasonmhead.com/ai-expert-roadmap-with-connections/) 👈
+👉 An **interactive version with links to follow** about each bullet of the list can be found at (https://jasonmhead.com/ai-expert-roadmap-with-connections/) 👈
 
 To receive updates [star :star:] and watch :eyes: the [GitHub Repo](https://github.com/jasonmhead/AI-Expert-Roadmap-Connections) to get notified, when we add new content to stay on the top of the most recent research.
 
