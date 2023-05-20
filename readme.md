@@ -24,6 +24,7 @@ en>AI Developer Concepts] -->
 A[Foundational Concepts] --> B{Choose Your Path} 
 B --> C[Data Scientist] 
 B --> D[Data Engineer]
+click A callback "Tooltip for a callback"
 ```
 
 ## Note
