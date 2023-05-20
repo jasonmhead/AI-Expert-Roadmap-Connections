@@ -45,15 +45,30 @@ E --> G[Deep Learning]
 
 ```mermaid
 mindmap
-  Basics
-  Matrices & Linear Algebra Fundamentals
-  Database Basics
-  Fir Tabular Data
-  Data Frames & Series
-  Extract, Transform, Load (ETU)
-  Reporting vs 81 vs Analytics
-  Data Formats
-  Regular Expressions (RegEx)
+  root((Basics))
+    Matrices & Linear Algebra Fundamentals
+    Database Basics
+      Relational
+      SQL
+        Inner
+        Left
+        Right
+        Full Outer
+      NoSQL
+      Vector
+      Graph
+    Tabular Data
+    Data Frames & Series
+    Extract, Transform, Load ETL
+    Data Use
+      Reporting
+      BI
+      Analytics
+    Data Formats
+      JSON
+      XML
+      CSV
+    Regular Expressions RegEx
 ```
 
 Relational vs. non-relational databases 
