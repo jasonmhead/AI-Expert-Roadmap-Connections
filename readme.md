@@ -43,7 +43,8 @@ E --> G[Deep Learning]
 
 ## Fundamentals
 
-graph TD;
+```mermaid
+flowchart TD
     Fundamentals --> Basics;
     Basics --> Matrices_Linear_Algebra_Fundamentals;
     Basics --> Database_Basics;
@@ -53,7 +54,7 @@ graph TD;
     Extract_Transform_Load_ETU --> Reporting_vs_81_vs_Analytics;
     Fundamentals --> Data_Formats;
     Data_Formats --> Regular_Expressions_RegEx;
-
+```
 
 Relational vs. non-relational databases 
 SQL + Joins (Inner. Outer. Cross. Theta Jd 
