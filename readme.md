@@ -49,11 +49,11 @@ mindmap
     Matrices & Linear Algebra Fundamentals
     Database Basics
       Relational
-      SQL
-        Inner
-        Left
-        Right
-        Full Outer
+        SQL
+          Inner
+          Left
+          Right
+          Full Outer
       NoSQL
       Vector
       Graph
