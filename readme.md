@@ -15,6 +15,8 @@
 
 This is a fork and adaptation of https://github.com/AMAI-GmbH/AI-Expert-Roadmap
 
+I've ported over the flowcharts to use the [Mermaid library](https://mermaid.js.org), that is intragrated into GitHub
+
 If you are interested collaborating, drop a note to [jmhead@jasonmhead.com](mailto:jmhead@jasonmhead.com).
 
 
