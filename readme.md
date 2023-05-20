@@ -20,11 +20,11 @@ If you are interested collaborating, drop a note to [jmhead@jasonmhead.com](mail
 
 ## Note
 
-👉 An **interactive version with links to follow** about each bullet of the list can be found at [i.am.ai/roadmap](https://i.am.ai/roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Interactive) 👈
+👉 An **interactive version with links to follow** about each bullet of the list can be found at [[i.am.ai/roadmap](https://jasonmhead.com/ai-expert-roadmap-with-connections/)](https://jasonmhead.com/ai-expert-roadmap-with-connections/) 👈
 
-To receive updates [star :star:](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/) to get notified, when we add new content to stay on the top of the most recent research.
+To receive updates [star :star:] and watch :eyes: the [GitHub Repo](https://github.com/jasonmhead/AI-Expert-Roadmap-Connections) to get notified, when we add new content to stay on the top of the most recent research.
 
-Follow our [AI Newsletter](https://i.am.ai/newsletter?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Newsletter) to stay up to date with the latest developments in AI. We cover new use cases and research topics.
+Subscribe to a [AI Newsletter](https://jasonmhead.com) to get links to developments in AI or Robotics that are interesting / useful. 
 
 ## Introduction
 
