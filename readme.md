@@ -3,12 +3,12 @@
     <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Developer Roadmap" width="96" height="96">
   </a>
   <h2 align="center">i.am.ai<br>AI Expert Roadmap</h2>
-  <p align="center">Roadmap to becoming an Artificial Intelligence Expert in 2022</p>
+  <p align="center">Roadmap to a Solid Foundation in Artificial Intelligence</p>
   <p align="center">
-      <a href="https://twitter.com/home?status=https://i.am.ai/roadmap Roadmap to becoming an Artificial Intelligence Expert in 2022" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://i.am.ai/roadmap&title=&summary=Roadmap to becoming an Artificial Intelligence Expert in 2022&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
-      <a href="https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Badge" target="_blank"><img alt="AMAI GmbH" src="https://img.shields.io/badge/Author-AMAI GmbH-blue.svg" style="display: inherit;"/></a>
+      <a href="https://twitter.com/home?status=https://github.com/jasonmhead/AI-Expert-Roadmap-Connections Roadmap to becoming an Artificial Intelligence Expert with Connections" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/jasonmhead/AI-Expert-Roadmap-Connections&title=&summary=Roadmap to becoming an Artificial Intelligence Expert with Connections&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
+      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-2023-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Badge" target="_blank"><img alt="AMAI GmbH" src="https://img.shields.io/badge/Author-JasonMHead-blue.svg" style="display: inherit;"/></a>
 <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
   <br>
@@ -18,14 +18,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Become+Expert) in Germany, or you want to [hire an AI Expert](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Expert), please say [hi@am.ai](mailto:hi@am.ai).
 
-```mermaid
-flowchart TD
-en>AI Developer Concepts] --> 
-A[Foundational Concepts] --> B{Choose Your Path} 
-B --> C[Data Scientist] 
-B --> D[Data Engineer]
 
-```
 
 ## Note
 
@@ -35,17 +28,18 @@ To receive updates [star :star:](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/
 
 Follow our [AI Newsletter](https://i.am.ai/newsletter?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Newsletter) to stay up to date with the latest developments in AI. We cover new use cases and research topics.
 
-## Disclaimer
-
-The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
-
 ## Introduction
 
-<p align="center">
-  <a href="https://i.am.ai/roadmap#introduction?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Introduction" target="_blank">
-      <img src="./images/intro.svg"/>
-  </a>
-</p>
+```mermaid
+flowchart TD
+en>AI Developer Concepts] --> 
+A[Foundational Concepts] --> B{Choose Your Path} 
+B --> C[Data Scientist] 
+B --> D[Data Engineer]
+C --> E[Machine Learning]
+D --> F[Big Data Engineer]
+E --> G[Deep Learning]
+```
 
 ## Fundamentals
 
