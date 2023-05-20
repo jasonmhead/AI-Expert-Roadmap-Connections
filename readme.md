@@ -24,10 +24,7 @@ en>AI Developer Concepts] -->
 A[Foundational Concepts] --> B{Choose Your Path} 
 B --> C[Data Scientist] 
 B --> D[Data Engineer]
-click A callback "Tooltip for a callback"
-    click B "https://www.github.com" "This is a tooltip for a link"
-    click A call callback() "Tooltip for a callback"
-    click B href "https://www.github.com" "This is a tooltip for a link"
+
 ```
 
 ## Note
