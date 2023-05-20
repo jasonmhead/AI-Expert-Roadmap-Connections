@@ -91,18 +91,5 @@ E --> G[Deep Learning]
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, we will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. 
 
-## 🙌 Contribution
-
-> Have a look at the [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-* Open pull request with improvements
-* Discuss ideas in issues
-* Spread the word
-* Reach out with any feedback
-
-## Supported By
-
-<a href="https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+SupportedBy" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;"/></a>
-<a href="https://digitalhub-ai.de?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit; max-width: 150px;"/></a>
