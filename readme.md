@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/jasonmhead/AI-Expert-Roadmap-Connections">
-    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Developer Roadmap Connections" width="96" height="96">
+    <img src="https://jasonmhead.com/wp-content/uploads/2023/05/00301-1709815115-network-glowing-blue-plasma-background.png" alt="Developer Roadmap Connections" width="96" height="96">
   </a>
-  <h2 align="center">i.am.ai<br>AI Expert Roadmap with Connections</h2>
+  <h2 align="center">AI Expert Roadmap with Connections</h2>
   <p align="center">Roadmap to a Solid Foundation in Artificial Intelligence</p>
   <p align="center">
       <a href="https://twitter.com/home?status=https://github.com/jasonmhead/AI-Expert-Roadmap-Connections Roadmap to becoming an Artificial Intelligence Expert with Connections" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
