@@ -7,7 +7,7 @@
   <p align="center">
       <a href="https://twitter.com/home?status=https://github.com/jasonmhead/AI-Expert-Roadmap-Connections Roadmap to becoming an Artificial Intelligence Expert with Connections" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/jasonmhead/AI-Expert-Roadmap-Connections&title=&summary=Roadmap to becoming an Artificial Intelligence Expert with Connections&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-AI-Connections-yellowgreen.svg" style="display: inherit;"/></a>
+      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-AI-yellowgreen.svg" style="display: inherit;"/></a>
 <a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
   </p>
   <br>
