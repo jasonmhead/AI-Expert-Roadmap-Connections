@@ -71,15 +71,22 @@ mindmap
     Regular Expressions RegEx
 ```
 
-Relational vs. non-relational databases 
-SQL + Joins (Inner. Outer. Cross. Theta Jd 
-NoSOL 
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#fundamentals?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Fundamentals" target="_blank">
-      <img src="./images/fundamentals.svg"/>
-  </a>
-</p>
+```mermaid
+mindmap
+  root((Python))
+    Basics
+      Expressions 
+      Variables 
+      Data Structures 
+      Functions 
+      Install packages via pip. conda etc. 
+      Codestyle. e.g. PEP8 
+    Important libraries 
+      Numpy
+      Pandas
+    Virtual Environments 
+    Jupyter Notebooks / Lab 
+```
 
 ## Data Science Roadmap
 
